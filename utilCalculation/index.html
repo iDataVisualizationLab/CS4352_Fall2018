@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script type = "text/javascript">
+    function calc()
+    {
+        var CPU = document.getElementById("CPU").value;
+        var P = document.getElementById("P").value;
+        var N = document.getElementById("N").value;
+        //CPU = 1 - P^N
+        if(CPU == '')
+        {
+            P = parseFloat(P);
+            N = parseFloat(N);
+            res = 1 - Math.pow(P,N);
+            document.getElementById("CPU").value = res;
+        }
+        else if(P == '')
+        {
+            CPU = parseFloat(CPU);
+            N = parseFloat(N);
+            res = Math.pow(1-CPU,1/N);
+            document.getElementById("P").value = res;
+        }
+        else if(N == '')
+        {
+            CPU = parseFloat(CPU);
+            P = parseFloat(P);
+            res = Math.log(1-CPU) / Math.log(P);
+            document.getElementById("N").value = res;
+        }
+        graph(P);
+    }
+    
+    function graph(IOWait)
+    {
+        var arrX = new Array();
+        for(var i = 0; i<=10; i++)
+        {
+            arrX[i] = i;
+        }
+        
+        var arrY = new Array();
+        for(var i = 0; i<=10; i++)
+        {
+            arrY[i] = 1 - Math.pow(IOWait,i);
+        }
+        var layout = 
+        {
+            xaxis:
+            {
+                title: 'Degree of Multiprogramming'
+            },
+            yaxis:
+            {
+                title: 'CPU Utilization (in percent)'
+            }
+        };
+        TESTER = document.getElementById('tester');
+        Plotly.plot( TESTER, [{
+        x: arrX,
+        y: arrY }], layout );
+    }
+    
+    function destInput()
+    {
+        document.getElementById("CPU").value = '';
+        document.getElementById("P").value = '';
+        document.getElementById("N").value = '';
+    }
+    
+    
+    </script>
+</head>
+<body>
+    <center>
+    <h1>CS4352:Operating Systems</h1>
+    <h2>CPU Utilization Calculator</h2>
+    <h2> CPU Utilization = 1 - P^N </h2>
+    <div id="tester" style="width:600px;height:450px;"></div>
+    CPU Utilization <input type = "text" size = "3" id = "CPU"/>
+    <br/>
+    P (I/O Fraction time)<input type = "text" size = "3" id = "P"/>
+    <br/>
+    N (Number of processes)<input type = "text" size = "3" id = "N">
+    <br/>
+    <button onClick = "calc()">
+    Submit
+    </button>
+    <button onClick = "destInput()">
+    Clear
+    </button></center>
+ 
+ </body>
+ 
+</html>
