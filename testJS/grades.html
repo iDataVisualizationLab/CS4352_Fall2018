@@ -77,7 +77,7 @@ var valueline = d3.line()
 // Student info data  
 var data2 = {};
 var groupCount = [{}];
-d3.tsv("data/students.csv", function(error, data_) {  
+d3.csv("data/students.csv", function(error, data_) {  
   data_.forEach(function(d) {
     if (data2[d.Fullname]==undefined)
         data2[d.Fullname] = {};
@@ -123,7 +123,7 @@ var nodesP2=[];
 var linksP2=[];
 var nodesP3=[];
 var linksP3=[];
-var today = new Date("05/15/2017");
+var today = new Date("09/10/2018");
     
 function getCategoty(str){
   return 0;
@@ -132,21 +132,21 @@ var data = {};
 
 
 function main(){
-  d3.tsv("data/participations.csv", function(error, data_) {    
+  d3.csv("data/participations.csv", function(error, data_) {    
     data_.forEach(function(d) {
       if (data[d.Students]==undefined)
           data[d.Students] = {};
       if (data[d.Students].array==undefined)
           data[d.Students].array= [];
-      
-      var object =  {}; 
-      object.date = parseTime(d.Date);
+     var object =  {}; 
+      object.date = new Date(d.Date);
       object.score = +d.Scores/2;
       data[d.Students].array.push(object);
       data[d.Students].array.name = d.Students;
       console.log("d.Students"+d.Students);
       data[d.Students].array.nickname =data2[d.Students].Nickname;
-      debugger;
+      
+
       data[d.Students].array.group = getCategoty(data2[d.Students].Level);
       data[d.Students].array.image = data2[d.Students].Photoname;
       data[d.Students].array.P1_code = parseFloat(data2[d.Students].P1_code);
@@ -164,7 +164,7 @@ function main(){
       data[d.Students].array.P3_group_score = parseFloat(data2[d.Students].P3_group_score); 
       data[d.Students].array.index = data[d.Students].array.length-1;
     });
-      
+     
     // Accumulate values
     for (var key in data){
       var arr = data[key].array;
