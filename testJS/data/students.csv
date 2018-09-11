@@ -1,30 +1,62 @@
-Fullname	Nickname	Level	Email	Student Pic
-Aaron Michael Trusty	Fuego	Senior	 Aaron.trusty@ttu.edu	photos/Aeron_M.jpg
-Alexander Clines	SegFault	Senior	alexander.clines@ttu.edu	photos/Alexander.jpeg
-Alexis (Lexi) Miller	Spot	Senior	alexis.miller@ttu.edu	photos/Alexis_Miller.jpg
-Ama Ott	Jedi kid	Senior	ama.ott@ttu.edu 	photos/amaott.jpg
-Andrew Dylan Salopek	Dylan	Senior	dylan.salopek@ttu.edu	photos/Andrew_Salopek.jpg
-Canaan Isaiah Thacker	Phendrus	Senior	isaiah.thacker@ttu.edu	photos/Isaiah_t.jpg
-Brice Taylor Petty	F4llen	Senior	brice.petty@ttu.edu	photos/Brice.JPG
-Chris Vasquez	icshr	Senior	christopher.d.vasquez@ttu.edu	photos/Chris_Vasquez.jpg
-Christopher James Marler	Foam	Senior	chris.marler@ttu.edu	photos/Chris_Maler.jpg
-David Walker	DW	Senior	david.walker@ttu.edu	photos/David_Walker.jpg
-Evan Downard	E	Senior	evan.downard@ttu.edu	photos/Evan.png
-Gordon Sandercox 	Gordon	Senior	Gordon.Sandercox@ttu.edu	photos/Gordon.jpg
-Jessica Hao	Kaka	Senior	yanan.hao@ttu.edu	photos/Jessica.jpg
-John Gerald Toland	eToTheEyePiPlusOne	Senior	 john.toland@ttu.edu	photos/John_Gerald.jpg
-Jonathon Elderton	Mustang47	Senior	jonathon.elderton@ttu.edu	photos/Jonathon_Elderton.jpg
-Kevin Claveria	EagerMcBeaver	Senior	kevin.claveria@ttu.edu	photos/Kevin_Claveria.jpg
-Kevin George	SkyGoat	Senior	kevin.george@ttu.edu	photos/Kevin_Geroge.jpg
-Kevin Taing	Kevin	Senior	Kevin.Taing@ttu.edu	photos/KevinT.png
-Koffi Egou Oswald Yao	Oswald	Senior	 koffi.yao@ttu.edu	photos/Oswald.jpg
-Nicholas Muirhead	Muirhead	Senior	nicholas.muirhead@ttu.edu	photos/Nicholas_Muirhead
-Olutayo Elelu	Tayo	Senior	 olutayo.elelu@ttu.edu	photos/Olutayo.png
-Patrick Tone	doktardo	Senior	patrick.a.tone@ttu.edu	photos/patrick_tone.jpg
-Saul Chavez	Water	Senior	sa.chavez@ttu.edu	photos/Saul_Chave.jpg
-Stephanie Dixon	srd	Senior	stephanie.dixon@ttu.edu	photos/Stephanie_Dixon.jpg
-Steven Lowry	slowry	Senior	steven.lowry@ttu.edu	photos/Lawry_Steven.jpg
-Tabatabaeianaraki Nazanin	Nazli		nazanin.tabatabaeianaraki@ttu.edu	photos/Nazanin.jpg
-Vu Phan	vi	Senior	vu.phan@ttu.edu	photos/phan.jpg
-Zachariah Grummons	twibird	Senior	zachariah.grummons@ttu.edu	photos/Zachariah.jpg
-Halen Phillips	HP	Senior	halen.phillips@ttu.edu	photos/Halen.jpg
+Fullname,Nickname,Level,Email,Student Pic
+Innocent Nwaukwa,Innocent,Senior,innocent.nwaukwa@ttu.edu,Nwaukwa.jpg
+Derek Fritz,DJ,Senior,derek.fritz@ttu.edu,Fritz.jpg
+Scott Blechman ,Scott,Senior,scott.blechman@ttu.edu,Blechman.png
+Simon Woldemichael,Sy,Senior,simon.woldemichael@ttu.edu,SimonWoldemichael.jpg
+Ruben Perez lll,Stark,Senior,ruben.perez@ttu.edu,Ruben.jpg
+Xujia wu,Carolyn,Senior,xujia.wu@ttu.edu,xui.jpg
+Olisa Omekam,Oo ,Senior,Olisa.Omekam@ttu.edu,Olisa.png
+Joseph M Wisor,mgcmky,Senior,joseph.wisor@ttu.edu,Joseph.jpg
+Jordan Coe,JJC,Senior,jordan.j.coe@ttu.edu,Jordan_Coe.jpg
+Ryan Faulkenberry,Peyote Nightmare,Senior,ryan.faulkenberry@ttu.edu,RyanFaulkenberry.png
+Jason Green,Jason,Senior,jason.p.green@ttu.edu,Jason.jpg
+Anusarika Prasai,anuprasai,Senior,anusarika.prasai@ttu.edu,anuprasai.jpg
+Wenhao Ge,Beck,Senior,wenhao.ge@ttu.edu,Wenhao.JPG
+William Gray,Will,Senior,William.s.gray@ttu.edu,WillGray.jpg
+Vijayanta Jain,VJ,Senior,vijayanta.jain@ttu.edu,Jain.jpg
+Ryan Jones,Ry,Senior,KTGR.Ryan@gmail.com,Ryan.jpg
+Matthew Jordan,Mkkb,Senior,Matt.jordan@ttu.edu,Mathew.jpg
+Mayur Bhakta,MBK,Senior,mayur.bhakta@ttu.edu,bhakta.jpg
+Miranda Carrillo,Miranda ,Senior,Miranda.Carrillo@ttu.edu,Miranda.jpg
+Indiana Cooper,Indiana,Senior,indiana.cooper@ttu.edu,indiana.PNG
+Travis Ahlberg,ahlbergta,Senior,travis.ahlberg@ttu.edu,ahlbergta.jpg
+David Tommy Lucero,lucereal,Senior,david.lucero@ttu.edu,lucereal.jpg
+Andre Manz,AndreManz,Senior,andre.manz@ttu.edu,AndreManz.jpg
+Arpit Desai,Arpit,Senior,arpit.a.desai@ttu.edu ,Arpit.jpg
+Zachariah Luckman,Zack,Senior,zack.luckman@ttu.edu,Zack.jpg
+Michael L. Acosta,M1221,Senior,Michael.acosta@ttu.edu,M1221.jpg
+Cody Otterbine,Dauntless,Senior,cody.otterbine@ttu.edu,Dauntless.JPG
+Kazi Abdul Muktadir,Bob,Senior,kazi-abdul.muktadir@ttu.edu,Bob.jpg
+Jairus McElroy ,McElroy ,Senior,Jairus.mcelroy@ttu.edu,McElroy.jpg
+Dalton Scorgie,Dalton ,Senior, dalton.r.scorgie@ttu.edu,Dalton.jpg
+Rehan,charnobel,Senior,rehan.ayoub@ttu.edu,charnobel.jpg
+Jethro Arsenal,KuyaJ,Senior,jethro.arsenal@ttu.edu,Kuyaj.jpg
+William Grant Murray,Grant,Senior,William.g.murray@ttu.edu,Grant.jpg
+Jakob Dozier,Ezio,Senior,jakob.dozier@ttu.edu,JakobDozier.JPEG
+Matthew Hopson,Matthew ,Senior,matt.hopson@ttu.edu,Matthew.jpg
+Todd Robinson,Todd,Senior,Todd.W.Robinson@ttu.edu,Todd.jpg
+Oghenerukevwe Asah,Rukky,Senior,Rukevwe.asah@ttu.edu,Rukky.JPG
+Wesley Scott,Wes,Senior,wesley.scott@ttu.edu,Wes.jpg
+Justin Rodriguez,Justin ,Senior,justin.rodriguez@ttu.edu,Justin.jpg
+Jorge Soto,Taco Man,Senior,jorge.soto@ttu.edu,TacoMan.jpg
+Luis Rausseo,RottenMango,Senior,luis.rausseo@ttu.edu,RottenMango.jpg
+Juan Ruiz,Juan,Senior,Juan.ruiz@ttu.edu,Juan.jpg
+Dong Hyuk Shin,Anthony Shin,Senior,dong-hyuk.shin@ttu.edu,Anthony.jpg
+Fox Bolduc,Mith,Senior,fox.bolduc@ttu.edu,FoxBolduc.jpg
+David Aaron Turner,Aaron ,Senior,aaron.turner@ttu.edu,DavidTurner.JPG
+Celina Maharjan,kanny,Senior,Celina.Maharjan@ttu.edu,CelinaMaharjan.jpg
+Rajeev Kuikel,Aakhle,Senior,rajeev.kuikel@ttu.edu,RajeevKuikelPhoto.jpg
+Bradley Teltschik,Brad,Senior,Bradley.teltschik@ttu.edu,Brad.png
+Darien Sokolov,Darien,Senior ,Darien.sokolov@ttu.edu,Darien.jpg
+Jijun Sui,Jay,Senior ,jijun.sui@ttu.edu,sui.png
+Yavuz Can Kocoglu,Spencer,Senior ,Yc.Kocoglu@ttu.edu,Spencer.jpg
+Eddie Garcia,gar37012,Senior ,eddie.garcia@ttu.edu,EddieGarcia.PNG
+Elizabeth Doyle,Elizabeth ,Senior ,Elizabeth.doyle@ttu.edu,Elizabeth.png
+Louis Joseck,Louis,Senior , louis.joseck@ttu.edu,Louis.jpg
+David Cooper ,Furiedsteel,Senior ,david.p.cooper@ttu.edu,Furiedsteel.JPG
+Yuzhe Yin ,Yin,Junior,yuzhe.yin@ttu.edu,Yin.jpg
+Pradip Lamsal,Pradip,Senior,pradip.lamsal@ttu.edu,Pradip.jpg
+Matthew Hendrick,Hendrick,Senior,Matthew.Hendrick@ttu.edu,Hendrick.jpg
+Tien Dang,rin,Senior,tien.dang@ttu.edu,rin.JPG
+Jonathan Bouligny,,Senior,,
+Carloz,,Senior,,

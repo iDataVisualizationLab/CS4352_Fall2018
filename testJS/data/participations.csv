@@ -1,448 +1,155 @@
-Date	Students	Scores
-01/17/17	Aaron Michael Trusty	0
-01/17/17	Alexander Clines	0
-01/17/17	Alexis (Lexi) Miller	0
-01/17/17	Ama Ott	0
-01/17/17	Andrew Dylan Salopek	0
-01/17/17	Brice Taylor Petty	0
-01/17/17	Canaan Isaiah Thacker	0
-01/17/17	Chris Vasquez	0
-01/17/17	Christopher James Marler	0
-01/17/17	David Walker	0
-01/17/17	Evan Downard	0
-01/17/17	Gordon Sandercox 	0
-01/17/17	Jessica Hao	0
-01/17/17	John Gerald Toland	0
-01/17/17	Jonathon Elderton	0
-01/17/17	Kevin Claveria	0
-01/17/17	Kevin George	0
-01/17/17	Kevin Taing	0
-01/17/17	Koffi Egou Oswald Yao	0
-01/17/17	Nicholas Muirhead	0
-01/17/17	Olutayo Elelu	0
-01/17/17	Patrick Tone	0
-01/17/17	Saul Chavez	0
-01/17/17	Stephanie Dixon	0
-01/17/17	Steven Lowry	0
-01/17/17	Tabatabaeianaraki Nazanin	0
-01/17/17	Vu Phan	0
-01/17/17	Halen Phillips	0
-01/17/17	Zachariah Grummons	0
-01/19/17	Canaan Isaiah Thacker	1
-01/19/17	Saul Chavez	1
-01/19/17	Tabatabaeianaraki Nazanin	1
-01/19/17	Nicholas Muirhead	1
-01/19/17	John Gerald Toland	1
-01/19/17	Aaron Michael Trusty	1
-01/19/17	Kevin Taing	1
-01/19/17	Stephanie Dixon	1
-01/19/17	David Walker	1
-01/19/17	Brice Taylor Petty	1
-01/24/17	Evan Downard	1
-01/24/17	Canaan Isaiah Thacker	2
-01/24/17	Aaron Michael Trusty	1
-01/24/17	Gordon Sandercox 	2
-01/24/17	Andrew Dylan Salopek	2
-01/24/17	David Walker	2
-01/24/17	Nicholas Muirhead	2
-01/24/17	John Gerald Toland	1
-01/24/17	Chris Vasquez	1
-01/24/17	Patrick Tone	1
-01/24/17	Zachariah Grummons	1
-01/24/17	Jessica Hao	1
-01/24/17	Olutayo Elelu	1
-01/24/17	Alexander Clines	2
-01/26/17	Aaron Michael Trusty	1
-01/26/17	Andrew Dylan Salopek	2
-01/26/17	Canaan Isaiah Thacker	3
-01/26/17	Chris Vasquez	2
-01/26/17	John Gerald Toland	2
-01/26/17	Kevin George	2
-01/26/17	Koffi Egou Oswald Yao	2
-01/26/17	Nicholas Muirhead	2
-01/26/17	Patrick Tone	1
-01/26/17	Saul Chavez	1
-01/26/17	Zachariah Grummons	1
-01/31/17	Aaron Michael Trusty	2
-01/31/17	Alexander Clines	2
-01/31/17	Canaan Isaiah Thacker	1
-01/31/17	Chris Vasquez	1
-01/31/17	Christopher James Marler	2
-01/31/17	David Walker	2
-01/31/17	Jessica Hao	2
-01/31/17	John Gerald Toland	2
-01/31/17	Kevin Claveria	2
-01/31/17	Kevin Taing	2
-01/31/17	Nicholas Muirhead	2
-01/31/17	Olutayo Elelu	2
-01/31/17	Patrick Tone	2
-01/31/17	Saul Chavez	2
-01/31/17	Stephanie Dixon	1
-01/31/17	Vu Phan	3
-01/31/17	Zachariah Grummons	1
-02/02/17	Aaron Michael Trusty	1
-02/02/17	Alexander Clines	2
-02/02/17	Andrew Dylan Salopek	1
-02/02/17	Canaan Isaiah Thacker	2
-02/02/17	Chris Vasquez	2
-02/02/17	Evan Downard	1
-02/02/17	David Walker	2
-02/02/17	Gordon Sandercox 	1
-02/02/17	John Gerald Toland	2
-02/02/17	Kevin George	1
-02/02/17	Kevin Taing	2
-02/02/17	Koffi Egou Oswald Yao	1
-02/02/17	Patrick Tone	2
-02/02/17	Saul Chavez	2
-02/02/17	Stephanie Dixon	1
-02/02/17	Vu Phan	1
-02/02/17	Zachariah Grummons	1
-02/02/17	Nicholas Muirhead	1
-02/07/17	Aaron Michael Trusty	1
-02/07/17	Alexander Clines	2
-02/07/17	Andrew Dylan Salopek	2
-02/07/17	Canaan Isaiah Thacker	2
-02/07/17	Chris Vasquez	2
-02/07/17	David Walker	1
-02/07/17	Gordon Sandercox 	1
-02/07/17	Jessica Hao	1
-02/07/17	John Gerald Toland	2
-02/07/17	Kevin George	1
-02/07/17	Kevin Taing	2
-02/07/17	Koffi Egou Oswald Yao	1
-02/07/17	Nicholas Muirhead	1
-02/07/17	Olutayo Elelu	1
-02/07/17	Patrick Tone	1
-02/07/17	Saul Chavez	2
-02/07/17	Vu Phan	1
-02/07/17	Zachariah Grummons	1
-02/09/17	Aaron Michael Trusty	1
-02/09/17	Alexander Clines	2
-02/09/17	Andrew Dylan Salopek	1
-02/09/17	Canaan Isaiah Thacker	2
-02/09/17	Chris Vasquez	1
-02/09/17	David Walker	2
-02/09/17	Gordon Sandercox 	1
-02/09/17	Jessica Hao	1
-02/09/17	John Gerald Toland	2
-02/09/17	Kevin George	1
-02/09/17	Kevin Taing	2
-02/09/17	Christopher James Marler	1
-02/09/17	Nicholas Muirhead	1
-02/09/17	Stephanie Dixon	1
-02/09/17	Patrick Tone	1
-02/09/17	Saul Chavez	1
-02/09/17	Vu Phan	2
-02/09/17	Zachariah Grummons	2
-02/09/17	Brice Taylor Petty	1
-02/14/17	Alexander Clines	2
-02/14/17	Canaan Isaiah Thacker	2
-02/14/17	Chris Vasquez	2
-02/14/17	Evan Downard	1
-02/14/17	Gordon Sandercox 	1
-02/14/17	John Gerald Toland	2
-02/14/17	Kevin Claveria	1
-02/14/17	Kevin Taing	1
-02/14/17	Koffi Egou Oswald Yao	1
-02/14/17	Nicholas Muirhead	2
-02/14/17	Stephanie Dixon	1
-02/14/17	Patrick Tone	1
-02/14/17	Saul Chavez	1
-02/14/17	Vu Phan	2
-02/14/17	Zachariah Grummons	2
-02/16/17	Aaron Michael Trusty	1
-02/16/17	Alexander Clines	1
-02/16/17	Canaan Isaiah Thacker	2
-02/16/17	David Walker	1
-02/16/17	Gordon Sandercox 	1
-02/16/17	Kevin Claveria	1
-02/16/17	Kevin Taing	1
-02/16/17	Nicholas Muirhead	1
-02/16/17	Stephanie Dixon	1
-02/16/17	Patrick Tone	1
-02/16/17	Saul Chavez	1
-02/16/17	Vu Phan	2
-02/16/17	Zachariah Grummons	1
-02/16/17	Koffi Egou Oswald Yao	1
-02/16/17	Evan Downard	1
-02/16/17	Andrew Dylan Salopek	2
-02/21/17	Aaron Michael Trusty	1
-02/21/17	Alexander Clines	1
-02/21/17	Canaan Isaiah Thacker	2
-02/21/17	David Walker	1
-02/21/17	Kevin Taing	1
-02/21/17	Nicholas Muirhead	1
-02/21/17	Patrick Tone	1
-02/21/17	Vu Phan	2
-02/21/17	Zachariah Grummons	1
-02/21/17	Chris Vasquez	2
-02/21/17	John Gerald Toland	2
-02/23/17	Kevin George	1
-02/23/17	Stephanie Dixon	1
-02/23/17	Gordon Sandercox 	1
-02/28/17	Aaron Michael Trusty	1
-02/28/17	Alexander Clines	2
-02/28/17	Canaan Isaiah Thacker	2
-02/28/17	David Walker	1
-02/28/17	Kevin Taing	1
-02/28/17	Nicholas Muirhead	1
-02/28/17	Patrick Tone	1
-02/28/17	Vu Phan	1
-02/28/17	Zachariah Grummons	1
-02/28/17	Chris Vasquez	2
-02/28/17	John Gerald Toland	2
-02/28/17	Stephanie Dixon	1
-02/28/17	Jonathon Elderton	1
-02/28/17	Koffi Egou Oswald Yao	1
-03/02/17	Canaan Isaiah Thacker	1
-03/02/17	David Walker	1
-03/02/17	Kevin Taing	1
-03/02/17	Patrick Tone	1
-03/02/17	Vu Phan	1
-03/02/17	Zachariah Grummons	1
-03/02/17	Chris Vasquez	1
-03/02/17	John Gerald Toland	1
-03/02/17	Stephanie Dixon	1
-03/02/17	Gordon Sandercox 	1
-03/02/17	Jessica Hao	1
-03/02/17	Saul Chavez	1
-03/02/17	Christopher James Marler	2
-03/02/17	Kevin Claveria	1
-03/07/17	Alexis (Lexi) Miller	2
-03/07/17	Ama Ott	1
-03/07/17	Andrew Dylan Salopek	1
-03/07/17	Brice Taylor Petty	1
-03/07/17	Canaan Isaiah Thacker	1
-03/07/17	Chris Vasquez	2
-03/07/17	David Walker	1
-03/07/17	Evan Downard	1
-03/07/17	Gordon Sandercox 	1
-03/07/17	John Gerald Toland	1
-03/07/17	Kevin Claveria	1
-03/07/17	Kevin Taing	1
-03/07/17	Nicholas Muirhead	1
-03/07/17	Olutayo Elelu	1
-03/07/17	Patrick Tone	1
-03/07/17	Stephanie Dixon	1
-03/07/17	Vu Phan	1
-03/07/17	Zachariah Grummons	1
-03/09/17	Aaron Michael Trusty	1
-03/09/17	Alexander Clines	1
-03/09/17	Alexis (Lexi) Miller	2
-03/09/17	Andrew Dylan Salopek	1
-03/09/17	Brice Taylor Petty	1
-03/09/17	Canaan Isaiah Thacker	1
-03/09/17	Chris Vasquez	1
-03/09/17	Christopher James Marler	1
-03/09/17	David Walker	1
-03/09/17	John Gerald Toland	1
-03/09/17	Kevin Claveria	1
-03/09/17	Kevin Taing	1
-03/09/17	Nicholas Muirhead	1
-03/09/17	Olutayo Elelu	1
-03/09/17	Patrick Tone	1
-03/09/17	Saul Chavez	1
-03/09/17	Vu Phan	1
-03/09/17	Zachariah Grummons	1
-03/21/17	Aaron Michael Trusty	1
-03/21/17	Alexander Clines	1
-03/21/17	Andrew Dylan Salopek	1
-03/21/17	Canaan Isaiah Thacker	1
-03/21/17	Chris Vasquez	2
-03/21/17	David Walker	1
-03/21/17	John Gerald Toland	1
-03/21/17	Kevin Claveria	1
-03/21/17	Kevin Taing	1
-03/21/17	Nicholas Muirhead	1
-03/21/17	Olutayo Elelu	1
-03/21/17	Patrick Tone	1
-03/21/17	Vu Phan	1
-03/21/17	Zachariah Grummons	1
-03/21/17	Stephanie Dixon	1
-03/28/17	Aaron Michael Trusty	1
-03/28/17	Canaan Isaiah Thacker	1
-03/28/17	Chris Vasquez	1
-03/28/17	John Gerald Toland	1
-03/28/17	Kevin Claveria	1
-03/28/17	Kevin Taing	2
-03/28/17	Nicholas Muirhead	2
-03/28/17	Olutayo Elelu	2
-03/28/17	Vu Phan	1
-03/28/17	Zachariah Grummons	1
-03/28/17	Saul Chavez	1
-03/28/17	Jessica Hao	1
-03/28/17	Christopher James Marler	2
-03/30/17	Aaron Michael Trusty	1
-03/30/17	Canaan Isaiah Thacker	1
-03/30/17	Chris Vasquez	1
-03/30/17	John Gerald Toland	1
-03/30/17	Kevin Taing	1
-03/30/17	Nicholas Muirhead	1
-03/30/17	Vu Phan	1
-03/30/17	Zachariah Grummons	2
-03/30/17	Jessica Hao	1
-04/04/17	Aaron Michael Trusty	1
-04/04/17	Canaan Isaiah Thacker	1
-04/04/17	Chris Vasquez	1
-04/04/17	John Gerald Toland	1
-04/04/17	Kevin Claveria	1
-04/04/17	Kevin Taing	1
-04/04/17	Nicholas Muirhead	1
-04/04/17	Olutayo Elelu	1
-04/04/17	Vu Phan	1
-04/04/17	Zachariah Grummons	1
-04/04/17	Alexis (Lexi) Miller	1
-04/04/17	Brice Taylor Petty	1
-04/04/17	Alexander Clines	1
-04/04/17	Andrew Dylan Salopek	1
-04/06/17	Aaron Michael Trusty	1
-04/06/17	Canaan Isaiah Thacker	1
-04/06/17	Chris Vasquez	1
-04/06/17	John Gerald Toland	1
-04/06/17	Kevin Claveria	1
-04/06/17	Kevin Taing	2
-04/06/17	Nicholas Muirhead	1
-04/06/17	Olutayo Elelu	1
-04/06/17	Vu Phan	1
-04/06/17	Zachariah Grummons	1
-04/06/17	Alexis (Lexi) Miller	1
-04/06/17	Brice Taylor Petty	3
-04/06/17	Alexander Clines	1
-04/06/17	Andrew Dylan Salopek	2
-04/06/17	Patrick Tone	1
-04/06/17	David Walker	1
-04/06/17	Saul Chavez	1
-04/11/17	Alexander Clines	1
-04/11/17	Alexis (Lexi) Miller	2
-04/11/17	Ama Ott	1
-04/11/17	Andrew Dylan Salopek	1
-04/11/17	Brice Taylor Petty	1
-04/11/17	Chris Vasquez	1
-04/11/17	Christopher James Marler	2
-04/11/17	David Walker	1
-04/11/17	Evan Downard	1
-04/11/17	Gordon Sandercox 	1
-04/11/17	John Gerald Toland	1
-04/11/17	Jonathon Elderton	2
-04/11/17	Kevin Claveria	1
-04/11/17	Kevin George	1
-04/11/17	Kevin Taing	1
-04/11/17	Koffi Egou Oswald Yao	2
-04/11/17	Nicholas Muirhead	2
-04/11/17	Saul Chavez	1
-04/11/17	Stephanie Dixon	1
-04/11/17	Vu Phan	1
-04/11/17	Zachariah Grummons	1
-04/14/17	Alexis (Lexi) Miller	1
-04/14/17	Ama Ott	1
-04/14/17	Andrew Dylan Salopek	1
-04/14/17	Brice Taylor Petty	1
-04/14/17	Canaan Isaiah Thacker	1
-04/14/17	Chris Vasquez	1
-04/14/17	Christopher James Marler	1
-04/14/17	David Walker	1
-04/14/17	Evan Downard	1
-04/14/17	Gordon Sandercox 	1
-04/14/17	John Gerald Toland	1
-04/14/17	Koffi Egou Oswald Yao	2
-04/14/17	Nicholas Muirhead	1
-04/14/17	Saul Chavez	1
-04/14/17	Stephanie Dixon	1
-04/14/17	Vu Phan	1
-04/14/17	Zachariah Grummons	1
-04/14/17	Halen Phillips	1
-04/25/17	Alexis (Lexi) Miller	1
-04/25/17	Ama Ott	1
-04/25/17	Brice Taylor Petty	1
-04/25/17	Canaan Isaiah Thacker	1
-04/25/17	Chris Vasquez	1
-04/25/17	David Walker	1
-04/25/17	Gordon Sandercox 	1
-04/25/17	John Gerald Toland	1
-04/25/17	Koffi Egou Oswald Yao	1
-04/25/17	Nicholas Muirhead	1
-04/25/17	Stephanie Dixon	1
-04/25/17	Vu Phan	1
-04/25/17	Zachariah Grummons	1
-04/25/17	Kevin Taing	1
-04/25/17	Aaron Michael Trusty	1
-04/25/17	Patrick Tone	1
-04/27/17	Alexis (Lexi) Miller	1
-04/27/17	Ama Ott	1
-04/27/17	Brice Taylor Petty	1
-04/27/17	Canaan Isaiah Thacker	1
-04/27/17	Gordon Sandercox 	1
-04/27/17	John Gerald Toland	1
-04/27/17	Koffi Egou Oswald Yao	1
-04/27/17	Nicholas Muirhead	1
-04/27/17	Stephanie Dixon	1
-04/27/17	Vu Phan	1
-04/27/17	Kevin Taing	1
-04/27/17	Aaron Michael Trusty	1
-04/27/17	Patrick Tone	2
-04/27/17	Saul Chavez	1
-04/27/17	Halen Phillips	2
-04/27/17	Andrew Dylan Salopek	1
-04/27/17	Christopher James Marler	1
-04/27/17	Steven Lowry	1
-04/27/17	Jonathon Elderton	1
-05/02/17	Brice Taylor Petty	1
-05/02/17	Canaan Isaiah Thacker	1
-05/02/17	Gordon Sandercox 	1
-05/02/17	John Gerald Toland	1
-05/02/17	Koffi Egou Oswald Yao	2
-05/02/17	Nicholas Muirhead	2
-05/02/17	Stephanie Dixon	1
-05/02/17	Vu Phan	1
-05/02/17	Kevin Taing	1
-05/02/17	Aaron Michael Trusty	1
-05/02/17	Saul Chavez	1
-05/02/17	Andrew Dylan Salopek	1
-05/02/17	Jonathon Elderton	2
-05/02/17	Chris Vasquez	1
-05/02/17	David Walker	1
-05/02/17	Kevin Claveria	1
-05/04/17	Alexis (Lexi) Miller	1
-05/04/17	Canaan Isaiah Thacker	1
-05/04/17	Gordon Sandercox 	2
-05/04/17	John Gerald Toland	1
-05/04/17	Koffi Egou Oswald Yao	1
-05/04/17	Nicholas Muirhead	1
-05/04/17	Stephanie Dixon	1
-05/04/17	Vu Phan	1
-05/04/17	Kevin Taing	1
-05/04/17	Patrick Tone	1
-05/04/17	Saul Chavez	2
-05/04/17	Andrew Dylan Salopek	1
-05/04/17	David Walker	1
-05/04/17	Alexander Clines	1
-05/04/17	Zachariah Grummons	1
-05/09/17	Brice Taylor Petty	2
-05/09/17	Gordon Sandercox 	2
-05/09/17	John Gerald Toland	1
-05/09/17	Koffi Egou Oswald Yao	2
-05/09/17	Nicholas Muirhead	2
-05/09/17	Stephanie Dixon	1
-05/09/17	Vu Phan	1
-05/09/17	Kevin Taing	1
-05/09/17	Aaron Michael Trusty	1
-05/09/17	Saul Chavez	2
-05/09/17	Andrew Dylan Salopek	1
-05/09/17	Jonathon Elderton	2
-05/09/17	Chris Vasquez	1
-05/09/17	David Walker	1
-05/09/17	Kevin Claveria	2
-05/09/17	Alexis (Lexi) Miller	2
-05/09/17	Ama Ott	2
-05/09/17	Steven Lowry	1
-05/09/17	Evan Downard	2
-05/09/17	Halen Phillips	1
-05/09/17	Kevin Taing	1
-05/09/17	Patrick Tone	1
-05/09/17	Zachariah Grummons	1
-05/13/17	Jessica Hao	2
-05/13/17	Ama Ott	1
-05/13/17	Brice Taylor Petty	2
-05/13/17	Gordon Sandercox 	1
-05/13/17	David Walker	1
-05/13/17	Olutayo Elelu	3
+Date,Students,Scores
+8/26/2018,Innocent Nwaukwa,0
+8/26/2018,Derek Fritz,0
+8/26/2018,Scott Blechman ,0
+8/26/2018,Simon Woldemichael,0
+8/26/2018,Ruben Perez lll,0
+8/26/2018,Xujia wu,0
+8/26/2018,Olisa Omekam,0
+8/26/2018,Joseph M Wisor,0
+8/26/2018,Jordan Coe,0
+8/26/2018,Ryan Faulkenberry,0
+8/26/2018,Jason Green,0
+8/26/2018,Anusarika Prasai,0
+8/26/2018,Wenhao Ge,0
+8/26/2018,William Gray,0
+8/26/2018,Vijayanta Jain,0
+8/26/2018,Ryan Jones,0
+8/26/2018,Matthew Jordan,0
+8/26/2018,Mayur Bhakta,0
+8/26/2018,Miranda Carrillo,0
+8/26/2018,Indiana Cooper,0
+8/26/2018,Travis Ahlberg,0
+8/26/2018,David Tommy Lucero,0
+8/26/2018,Andre Manz,0
+8/26/2018,Arpit Desai,0
+8/26/2018,Zachariah Luckman,0
+8/26/2018,Michael L. Acosta,0
+8/26/2018,Cody Otterbine,0
+8/26/2018,Kazi Abdul Muktadir,0
+8/26/2018,Jairus McElroy ,0
+8/26/2018,Dalton Scorgie,0
+8/26/2018,Rehan,0
+8/26/2018,Jethro Arsenal,0
+8/26/2018,William Grant Murray,0
+8/26/2018,Jakob Dozier,0
+8/26/2018,Matthew Hopson,0
+8/26/2018,Todd Robinson,0
+8/26/2018,Oghenerukevwe Asah,0
+8/26/2018,Wesley Scott,0
+8/26/2018,Justin Rodriguez,0
+8/26/2018,Jorge Soto,0
+8/26/2018,Luis Rausseo,0
+8/26/2018,Juan Ruiz,0
+8/26/2018,Dong Hyuk Shin,0
+8/26/2018,Fox Bolduc,0
+8/26/2018,David Aaron Turner,0
+8/26/2018,Celina Maharjan,0
+8/26/2018,Rajeev Kuikel,0
+8/26/2018,Bradley Teltschik,0
+8/26/2018,Darien Sokolov,0
+8/26/2018,Jijun Sui,0
+8/26/2018,Yavuz Can Kocoglu,0
+8/26/2018,Eddie Garcia,0
+8/26/2018,Elizabeth Doyle,0
+8/26/2018,Louis Joseck,0
+8/26/2018,David Cooper ,0
+8/26/2018,Yuzhe Yin ,0
+8/26/2018,Pradip Lamsal,0
+8/26/2018,Matthew Hendrick,0
+8/26/2018,Carloz,0
+8/26/2018,Jonathan Bouligny,0
+8/26/2018,Tien Dang,0
+8/28/2018,Carloz,1
+8/28/2018,Justin Rodriguez,1
+8/28/2018,Ryan Faulkenberry,1
+8/28/2018,Matthew Jordan,1
+8/28/2018,Cody Otterbine,1
+8/28/2018,Jordan Coe,1
+8/28/2018,Jorge Soto,1
+8/28/2018,Wenhao Ge,1
+8/28/2018,Louis Joseck,1
+8/28/2018,Jairus McElroy ,1
+8/28/2018,Michael L. Acosta,1
+8/28/2018,Bradley Teltschik,1
+8/28/2018,Mayur Bhakta,1
+8/28/2018,Ruben Perez lll,1
+8/28/2018,Arpit Desai,1
+8/28/2018,Travis Ahlberg,2
+8/28/2018,Fox Bolduc,1
+8/28/2018,Yuzhe Yin ,1
+8/28/2018,William Gray,1
+8/28/2018,Olisa Omekam,2
+8/28/2018,Darien Sokolov,1
+8/30/2018,Justin Rodriguez,1
+8/30/2018,Ryan Faulkenberry,1
+8/30/2018,Matthew Jordan,2
+8/30/2018,Cody Otterbine,2
+8/30/2018,Jordan Coe,1
+8/30/2018,Ryan Jones,2
+8/30/2018,Matthew Hendrick,1
+8/30/2018,Scott Blechman ,1
+8/30/2018,Carloz,1
+8/30/2018,Louis Joseck,1
+8/30/2018,Derek Fritz,2
+8/30/2018,Vijayanta Jain,2
+8/30/2018,Ruben Perez lll,1
+8/30/2018,Andre Manz,2
+8/30/2018,Jethro Arsenal,1
+8/30/2018,Arpit Desai,2
+8/30/2018,Fox Bolduc,4
+8/30/2018,Yuzhe Yin ,2
+8/30/2018,Olisa Omekam,2
+8/30/2018,Zachariah Luckman,2
+8/30/2018,Dalton Scorgie,1
+8/30/2018,Wenhao Ge,1
+8/30/2018,Jonathan Bouligny,1
+8/30/2018,David Tommy Lucero,1
+9/4/2018,Matthew Jordan,1
+9/4/2018,Jorge Soto,1
+9/4/2018,Matthew Hendrick,1
+9/4/2018,Wenhao Ge,1
+9/4/2018,Scott Blechman ,1
+9/4/2018,Louis Joseck,1
+9/4/2018,Derek Fritz,3
+9/4/2018,Simon Woldemichael,3
+9/4/2018,Mayur Bhakta,4
+9/4/2018,Vijayanta Jain,4
+9/4/2018,Kazi Abdul Muktadir,1
+9/4/2018,Jethro Arsenal,1
+9/4/2018,David Cooper ,1
+9/4/2018,William Grant Murray,1
+9/4/2018,Rehan,1
+9/4/2018,Carloz,1
+9/4/2018,Innocent Nwaukwa,1
+9/4/2018,Olisa Omekam,2
+9/4/2018,Zachariah Luckman,2
+9/4/2018,Jonathan Bouligny,1
+9/4/2018,Dalton Scorgie,1
+9/6/2018,Justin Rodriguez,2
+9/6/2018,Ryan Faulkenberry,1
+9/6/2018,Matthew Jordan,2
+9/6/2018,Jordan Coe,1
+9/6/2018,Wenhao Ge,1
+9/6/2018,Scott Blechman ,2
+9/6/2018,Carloz,1
+9/6/2018,Louis Joseck,1
+9/6/2018,Jairus McElroy ,1
+9/6/2018,Derek Fritz,1
+9/6/2018,Mayur Bhakta,3
+9/6/2018,Vijayanta Jain,2
+9/6/2018,Andre Manz,1
+9/6/2018,Jethro Arsenal,1
+9/6/2018,Arpit Desai,2
+9/6/2018,Rehan,1
+9/6/2018,Travis Ahlberg,1
+9/6/2018,David Tommy Lucero,2
+9/6/2018,Olisa Omekam,3
+9/6/2018,Zachariah Luckman,2
+9/6/2018,Dalton Scorgie,1
+9/6/2018,Elizabeth Doyle,3
+9/6/2018,Jason Green,1
+9/6/2018,David Tommy Lucero,1
+9/6/2018,Pradip Lamsal,1
+9/6/2018,Darien Sokolov,2
+9/6/2018,Jonathan Bouligny,1
