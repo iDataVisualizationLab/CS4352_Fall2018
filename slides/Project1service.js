@@ -8,21 +8,7 @@ var sampleService =
         "query_time": 1536725817000,
         "description": "check temperature",
         "temperature": 67,
-        "status": 2,
-        "last_update": 1536725815000,
-        "has_been_checked": true,
-        "should_be_scheduled": true,
-        "last_check": 1536725788000,
-        "check_options": 0,
-        "check_type": 0,
-        "checks_enabled": true,
-        "last_state_change": 1536725788000,
-        "last_hard_state_change": 1536591074000,
-        "last_hard_state": 2,
-        "last_time_ok": 1536725548000,
-        "last_time_warning": 0,
-        "last_time_unknown": 1534429676000,
-        "last_time_critical": 1536725788000,     
+        "status": 2;    
     }
 // You will be provided an input file which has a few thousands of these records  
 // Questions:
