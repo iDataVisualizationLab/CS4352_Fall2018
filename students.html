@@ -69,7 +69,10 @@
            var Screenshot = row.Screenshot !=""?'<img src=' + "data/StudentAvatars/" + row.Screenshot + '></img>':'<img src="images/no-thumbnail.png"/>';
            
             if(index < rows_per_table){
-                $('#tb1').append('<tr><td>' + (index + 1) + '</td><td>' + Screenshot + '</td><td>' + row.Fullname+'</td><td>' + row.Experience + '</td><td>' + row.Email + '</td></tr>');
+                if(row.Fullname == "Andre Manz")
+                    $('#tb1').append('<tr><td>' + (index + 1) + '</td><td>' + Screenshot + '</td><td>' + row.Fullname + '<br>BOOK</td><td>' + row.Experience + '</td><td>' + row.Email + '</td></tr>');
+                else
+                    $('#tb1').append('<tr><td>' + (index + 1) + '</td><td>' + Screenshot + '</td><td>' + row.Fullname+'</td><td>' + row.Experience + '</td><td>' + row.Email + '</td></tr>');
             }else{
                $('#tb2').append('<tr><td>' + (index + 1) + '</td><td>' + Screenshot + '</td><td>' + row.Fullname+'</td><td>' + row.Experience + '</td><td>' + row.Email + '</td></tr>');
             }
