@@ -47,7 +47,7 @@ path {
   <label id="progUpdate">
       <!-- Success Message -->
   </label>
-</div> 
+</div>
 
 <div id="controlHolder"  class="controlHolder">
  <input type="checkbox" id="checkboxP1" value="value2" class="check" onclick="showP1()" hidden="hidden">
@@ -218,7 +218,7 @@ function main(){
       yAxis.domain([0, 0.15]);
       yP1.domain([0, 20]);
 
-      // Search student nicknam
+       // Search student nicknam
       var optArray =[];
       for (var student in data2) {
         optArray.push(data2[student].Nickname);
@@ -909,7 +909,7 @@ function main(){
         .text(function(d) { return d.nickname; });      
     }
 
-    function searchNode() {
+function searchNode() {
     //searchTerm = document.getElementById('search').value;
     var obj ={};
     obj.nickname = document.getElementById('search').value;
