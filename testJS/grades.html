@@ -153,6 +153,7 @@ function getCategoty(str){
 }
 var data = {};
 
+var dur = 400;
 
 function main(){
   d3.csv("data/participations.csv", function(error, data_) {    
@@ -835,8 +836,6 @@ function main(){
 
     
   }
-
-  var dur = 400;
     
     if (revealIdentity){
     nodeImageP1 = svg.selectAll(".nodeImageP1")
