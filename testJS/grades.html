@@ -154,6 +154,22 @@ function getCategoty(str){
 var data = {};
 
 
+function searchNode() {
+    //searchTerm = document.getElementById('search').value;
+    var obj ={};
+    obj.nickname = document.getElementById('search').value;
+    for (var i=0;i<nodes.length;i++){
+      if (obj.nickname==nodes[i].nickname && nodes[i].index!=undefined){
+        obj.index = nodes[i].index;
+        obj.name = nodes[i].name;
+      }  
+    }
+    // mouseoutNode(obj);
+    // mouseoverNode(obj);
+    
+}
+
+
 function main(){
   d3.csv("data/participations.csv", function(error, data_) {    
     data_.forEach(function(d) {
@@ -187,21 +203,6 @@ function main(){
       data[d.Students].array.P3_group_score = parseFloat(data2[d.Students].P3_group_score); 
       data[d.Students].array.index = data[d.Students].array.length-1;
     });
-
-    function searchNode() {
-    //searchTerm = document.getElementById('search').value;
-    var obj ={};
-    obj.nickname = document.getElementById('search').value;
-    for (var i=0;i<nodes.length;i++){
-      if (obj.nickname==nodes[i].nickname && nodes[i].index!=undefined){
-        obj.index = nodes[i].index;
-        obj.name = nodes[i].name;
-      }  
-    }
-    mouseoutNode(obj);
-    mouseoverNode(obj);
-    
-}
      
     // Accumulate values
     for (var key in data){
