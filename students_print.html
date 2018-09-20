@@ -35,9 +35,6 @@
 					<td>No</td>
                     <td>Photo</td>
                     <td>Fullname</td>
-                    <td>Level</td>
-                    <td>Email</td>
-              
                 </tr>
             </table>
         </td>
@@ -49,8 +46,6 @@
 					<td>No</td>
                     <td>Photo</td>
                     <td>Fullname</td>
-                    <td>Level</td>
-                    <td>Email</td>
                 </tr>
 
             </table>
@@ -59,7 +54,7 @@
 </table>
 <hr style="width: 100%; height: 1px;">
 <div align="right"><font style="font-family:
-        Helvetica,Arial,sans-serif;" color="black" size="2">&copy; Last revised: Aug 28, 2018  <a href="https://idatavisualizationlab.github.io/CS4352_Fall2018/students_print.html" target="_blank">Print List</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</font>></div>
+        Helvetica,Arial,sans-serif;" color="black" size="2">&copy; Last revised: Aug 28, 2018  <a href="https://idatavisualizationlab.github.io/CS4352_Fall2018/students.html" target="_blank">Full Detail</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</font>></div>
 	<script>
     d3.csv('data/Info.csv', function (data) {
         var rows_per_table = Math.ceil(data.length / 2);
@@ -67,7 +62,7 @@
         data.forEach(function (row,index) {
 
            var Screenshot = row.Screenshot !=""?'<img src=' + "data/StudentAvatars/" + row.Screenshot + '></img>':'<img src="images/no-thumbnail.png"/>';
-           
+
             // book tag
            if(row.Fullname == "Andre Manz")
            {
@@ -75,9 +70,9 @@
            }
            
             if(index < rows_per_table){
-                $('#tb1').append('<tr><td>' + (index + 1) + '</td><td>' + Screenshot + '</td><td>' + row.Fullname+'</td><td>' + row.Experience + '</td><td>' + row.Email + '</td></tr>');
+                $('#tb1').append('<tr><td>' + (index + 1) + '</td><td>' + Screenshot + '</td><td>' + row.Fullname+'</td></tr>');
             }else{
-                $('#tb2').append('<tr><td>' + (index + 1) + '</td><td>' + Screenshot + '</td><td>' + row.Fullname+'</td><td>' + row.Experience + '</td><td>' + row.Email + '</td></tr>');
+                $('#tb2').append('<tr><td>' + (index + 1) + '</td><td>' + Screenshot + '</td><td>' + row.Fullname+'</td></tr>');
             }
 
         })
