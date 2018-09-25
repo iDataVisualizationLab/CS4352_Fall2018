@@ -74,6 +74,18 @@
 
             </table>
         </td>
+        <td style="width:2%;">
+        </td>
+        <td valign="top">
+            <table style="width:98%;" border="1" cellpadding="3" cellspacing="0" id="tb5">
+                <tr bgcolor="#aaa">
+					<td>No</td>
+                    <td>Photo</td>
+                    <td>Fullname</td>
+                </tr>
+
+            </table>
+        </td>
     </tr>
 </table>
 <hr style="width: 100%; height: 1px;">
@@ -81,7 +93,7 @@
         Helvetica,Arial,sans-serif;" color="black" size="2">&copy; Last revised: Aug 28, 2018  <a href="https://idatavisualizationlab.github.io/CS4352_Fall2018/students.html" target="_blank">Full Detail</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</font>></div>
 	<script>
     d3.csv('data/Info.csv', function (data) {
-        var rows_per_table = Math.ceil(data.length / 4);
+        var rows_per_table = Math.ceil(data.length / 5);
         console.log(data)
         data.forEach(function (row,index) {
 
@@ -99,8 +111,10 @@
                 $('#tb2').append('<tr><td>' + (index + 1) + '</td><td>' + Screenshot + '</td><td>' + row.Fullname+'</td></tr>');
             else if(index < rows_per_table*3)
                 $('#tb3').append('<tr><td>' + (index + 1) + '</td><td>' + Screenshot + '</td><td>' + row.Fullname+'</td></tr>');
-            else
+            else if(index < rows_per_table*4)
                 $('#tb4').append('<tr><td>' + (index + 1) + '</td><td>' + Screenshot + '</td><td>' + row.Fullname+'</td></tr>');
+            else
+                $('#tb5').append('<tr><td>' + (index + 1) + '</td><td>' + Screenshot + '</td><td>' + row.Fullname+'</td></tr>');
 
         })
     })
