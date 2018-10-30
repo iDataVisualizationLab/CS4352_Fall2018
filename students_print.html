@@ -1,0 +1,125 @@
+<!-- Adapted from https://www.evl.uic.edu/aej/424/ -->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>CS Students</title>
+	 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+	<style>
+		table{
+			border-collapse: collapse;
+		}
+        td{
+            text-align: center;
+            horiz-align: center;
+            vertical-align: center;
+        }
+		img {
+            width: 72px;
+            height: 72px;
+        }
+
+	</style>
+</head>
+<body bgcolor="white" text="black">
+<div align="left"><font style="font-family:
+        Helvetica,Arial,sans-serif;" color="black" size="5">Enrolled Students:</font></div>
+<div align="left"><font style="font-family:
+        Helvetica,Arial,sans-serif;" color="black" size="3">The table lists all students for this class (Simple Student Profile)</font></div>
+<table style="width:100%;">
+    <tr>
+        <td>
+            <table style="width:98%;" border="1" cellpadding="3" cellspacing="0" id="tb1">
+                <tr bgcolor="#aaa">
+					<td>No</td>
+                    <td>Photo</td>
+                    <td>Fullname</td>
+                </tr>
+            </table>
+        </td>
+        <td style="width:2%;">
+        </td>
+        <td valign="top">
+            <table style="width:98%;" border="1" cellpadding="3" cellspacing="0" id="tb2">
+                <tr bgcolor="#aaa">
+					<td>No</td>
+                    <td>Photo</td>
+                    <td>Fullname</td>
+                </tr>
+
+            </table>
+        </td>
+        <td style="width:2%;">
+        </td>
+        <td valign="top">
+            <table style="width:98%;" border="1" cellpadding="3" cellspacing="0" id="tb3">
+                <tr bgcolor="#aaa">
+					<td>No</td>
+                    <td>Photo</td>
+                    <td>Fullname</td>
+                </tr>
+
+            </table>
+        </td>
+        <td style="width:2%;">
+        </td>
+        <td valign="top">
+            <table style="width:98%;" border="1" cellpadding="3" cellspacing="0" id="tb4">
+                <tr bgcolor="#aaa">
+					<td>No</td>
+                    <td>Photo</td>
+                    <td>Fullname</td>
+                </tr>
+
+            </table>
+        </td>
+        <td style="width:2%;">
+        </td>
+        <td valign="top">
+            <table style="width:98%;" border="1" cellpadding="3" cellspacing="0" id="tb5">
+                <tr bgcolor="#aaa">
+					<td>No</td>
+                    <td>Photo</td>
+                    <td>Fullname</td>
+                </tr>
+
+            </table>
+        </td>
+    </tr>
+</table>
+<hr style="width: 100%; height: 1px;">
+<div align="right"><font style="font-family:
+        Helvetica,Arial,sans-serif;" color="black" size="2">&copy; Last revised: Aug 28, 2018  <a href="https://idatavisualizationlab.github.io/CS4352_Fall2018/students.html" target="_blank">Full Detail</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</font>></div>
+	<script>
+    d3.csv('data/Info.csv', function (data) {
+        var rows_per_table = Math.ceil(data.length / 5);
+        console.log(data)
+        data.forEach(function (row,index) {
+
+           var Screenshot = row.Screenshot !=""?'<img src=' + "data/StudentAvatars/" + row.Screenshot + '></img>':'<img src="images/no-thumbnail.png"/>';
+
+            // book tag
+           if(row.Fullname == "Andre Manz")
+           {
+               row.Fullname = row.Fullname + '<br><br><font color="blue">BOOK</font>';
+           }
+           
+            if(index < rows_per_table)
+                $('#tb1').append('<tr><td>' + (index + 1) + '</td><td>' + Screenshot + '</td><td>' + row.Fullname+'</td></tr>');
+            else if(index < rows_per_table*2)
+                $('#tb2').append('<tr><td>' + (index + 1) + '</td><td>' + Screenshot + '</td><td>' + row.Fullname+'</td></tr>');
+            else if(index < rows_per_table*3)
+                $('#tb3').append('<tr><td>' + (index + 1) + '</td><td>' + Screenshot + '</td><td>' + row.Fullname+'</td></tr>');
+            else if(index < rows_per_table*4)
+                $('#tb4').append('<tr><td>' + (index + 1) + '</td><td>' + Screenshot + '</td><td>' + row.Fullname+'</td></tr>');
+            else
+                $('#tb5').append('<tr><td>' + (index + 1) + '</td><td>' + Screenshot + '</td><td>' + row.Fullname+'</td></tr>');
+
+        })
+    })
+</script>
+</body>
+
+
+</html>
